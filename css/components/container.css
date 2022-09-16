@@ -1,0 +1,35 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container h1, .container p {
+  color: white;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.container h2 {
+  color: #598B2C;
+}
+
+.footer-links p {
+  color:lightgrey;
+}
+
+.container-footer {
+  margin: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-footer h6 {
+  margin: 0;
+  color: lightgrey;
+}
